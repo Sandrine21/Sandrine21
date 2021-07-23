@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandrine21
 - 👀 I’m interested in WEB and APP developing
-- 🌱 I’m currently learning React and JS node
+- 🌱 I’m currently using php,html,css,java and flutter and i am learning React and JS node
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via email Sandrinewandinda@gmail.com
 <!---
